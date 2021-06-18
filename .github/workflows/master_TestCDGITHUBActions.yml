@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'TestCDGITHUBActions'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6f44bd84fb314809828924fd7b3e2d8e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_faf46a47e8914ff498632711360e3856 }}
         package: .
